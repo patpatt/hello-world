@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+
+Testing how to make changes in GitHub.
